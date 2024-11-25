@@ -1,0 +1,64 @@
+1. Haber:
+Site Adı: Sözcü
+Zaman: 1g
+Başlık: Yeni salgın durdurulamıyor
+
+2. Haber:
+Site Adı: Milliyet
+Zaman: 6s
+Başlık: 1 Aralık itibariyle başlayacak: Otomobilinde bulunmayan sürücüye 4 bin 69 TL ceza kesilecek
+
+3. Haber:
+Site Adı: NTV Haber
+Zaman: 1g
+Başlık: Akciğeri 7 günde tertemiz yapıyor: 1 bardak iltihabı, balgamı kurutuyor
+
+4. Haber:
+Site Adı: Sözcü
+Zaman: 5s
+Başlık: Müzede Atatürk’ün fotoğrafını gören Erdoğan, hemen Murat Bardakçı'ya döndü
+
+5. Haber:
+Site Adı: NTV Haber
+Zaman: 3s
+Başlık: Faylarda stres birikti: 6 il için deprem uyarısı geldi
+
+6. Haber:
+Site Adı: Sözcü
+Zaman: 6s
+Başlık: Memur ve emekli maaşı yüzde kaç zamlanacak? En düşük maaş ne kadar olacak?
+
+7. Haber:
+Site Adı: NTV Haber
+Zaman: 1g
+Başlık: Meğer doğal şeker ilacıymış: Yüksek kan şekerini anında düşürüyor
+
+8. Haber:
+Site Adı: Mynet
+Zaman: 2g
+Başlık: 450 TL'lik yemeğe 3000 dolarlık bahşiş bıraktı! Restoran yemeğe bıraktığı bahşiş nedeniyle müşteriye dava açtı
+
+9. Haber:
+Site Adı: Sözcü
+Zaman: 1g
+Başlık: Türkiye'nin en zengin müteahhidiydi: Hükümet deviren iş insanı böyle battı
+
+10. Haber:
+Site Adı: Sözcü
+Zaman: 2s
+Başlık: Ahmet Özer'e yeni soruşturma
+
+11. Haber:
+Site Adı: Sözcü
+Zaman: 4s
+Başlık: Sosyal medya Erdoğan'ın bu mesajını tartışıyor
+
+12. Haber:
+Site Adı: Hürriyet
+Zaman: 47dk
+Başlık: Barbaros Şansal gözaltına alındı
+
+13. Haber:
+Site Adı: Habertürk
+Zaman: 15s
+Başlık: İSKİ İstanbul su kesintileri 11 Kasım Pazartesi: İstanbul'da sular ne zaman, saat kaçta gelecek?

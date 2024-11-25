@@ -1,0 +1,64 @@
+1. Haber:
+   Site Adı: NTV Haber
+   Zaman: 1g
+   Başlık: Akciğeri 7 günde tertemiz yapıyor: 1 bardak iltihabı, balgamı kurutuyor
+
+2. Haber:
+   Site Adı: Mynet
+   Zaman: 2g
+   Başlık: 450 TL'lik yemeğe 3000 dolarlık bahşiş bıraktı! Restoran yemeğe bıraktığı bahşiş nedeniyle müşteriye dava açtı
+
+3. Haber:
+   Site Adı: Milliyet
+   Zaman: 4s
+   Başlık: ELENEN İSİM! MasterChef kim elendi? MasterChef Türkiye 10 Kasım 2024 yarışmaya veda eden isim kim oldu?
+
+4. Haber:
+   Site Adı: Milliyet
+   Zaman: 1g
+   Başlık: "Erkekler maçları izleyebilmek için benimle sevgili olmak istiyor"
+
+5. Haber:
+   Site Adı: Sözcü
+   Zaman: 2s
+   Başlık: Bir gün hariç her gün sağanak: Meteoroloji'den uyarı geldi
+
+6. Haber:
+   Site Adı: Milliyet
+   Zaman: 1g
+   Başlık: Bakan Memişoğlu'ndan ‘aile hekimi' ve ‘reçete’ açıklaması
+
+7. Haber:
+   Site Adı: Sözcü
+   Zaman: 23s
+   Başlık: Cem Yılmaz duyurdu
+
+8. Haber:
+   Site Adı: Sözcü
+   Zaman: 1g
+   Başlık: GSM operatörü fiyatlarına zam yaptı: İşte yeni liste
+
+9. Haber:
+   Site Adı: Hürriyet
+   Zaman: 20s
+   Başlık: Sultangazi'de duygulandıran anma töreni
+
+10. Haber:
+   Site Adı: Milliyet
+   Zaman: 12s
+   Başlık: Narin Güran'ın Babası Arif Güran CNN Türk'e konuştu! Şüphelendiği ismi açıkladı
+
+11. Haber:
+   Site Adı: Hürriyet
+   Zaman: 1s
+   Başlık: Marmaray'da güvenlik görevlisi kendisine saldıran kişiyi bacağından vurdu
+
+12. Haber:
+   Site Adı: Sabah
+   Zaman: 2s
+   Başlık: 9. YARGI PAKETİ SON DAKİKA HABERİ: Meclis'te kabul edildi! 9. Yargı Paketi maddeleri ve içeriği neler, genel af ve ceza indirimi var mı?
+
+13. Haber:
+   Site Adı: Sabah
+   Zaman: 1g
+   Başlık: İstanbul parsel parsel satılıyor

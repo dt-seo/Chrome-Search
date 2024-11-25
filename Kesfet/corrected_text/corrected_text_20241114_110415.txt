@@ -1,0 +1,55 @@
+- Site Adı: Milliyet
+  Zaman: 1g.
+  Başlık: Patates filizlenmesini Onleyen meyve! Aralarina 2 tane koyunca aylarca tas gibi kaliyor
+
+- Site Adı: A101
+  Zaman: -
+  Başlık: A101 AKTUEL 14 KASIM INDIRIMLERI
+
+- Site Adı: Milliyet
+  Zaman: 1s.
+  Başlık: A101 AKTUEL 14 KASIM INDIRIMLERI
+
+- Site Adı: Milliyet
+  Zaman: 2s.
+  Başlık: Son Dakika Metro Haberleri: Yenikap! metro istasyonu gecici olarak kapatildi
+
+- Site Adı: Sözcü
+  Zaman: 20s.
+  Başlık: Jet Fadil'in ‘Caprice ¢ Gold'u rekor fiyata satisa ¢ikarildi
+
+- Site Adı: NTV Haber
+  Zaman: 2s.
+  Başlık: İstanbul Boğazı gemi trafiğine kapatıldı
+
+- Site Adı: FB Sözcü
+  Zaman: 2a.
+  Başlık: 1 Ocak'tan itibaren geçerli olacak: ATM'den para çekenler için yeni dönem
+
+- Site Adı: NTV Haber
+  Zaman: 2s.
+  Başlık: İstanbul Boğazı gemi trafiğine kapatıldı
+
+- Site Adı: NTV Haber
+  Zaman: 2s.
+  Başlık: Fay hattı kent merkezinin altından geçiyor! Prof. Dr. Seyitoğlu: Herkes Marmara’yı konuşuyor ama aynı risk b...
+
+- Site Adı: NTV Haber
+  Zaman: 2s.
+  Başlık: Son dakika haberleri: Eski telefonlara modifiye yapılır mı? 5 bin TL’ye iPhone 16 Pro
+
+- Site Adı: Milliyet
+  Zaman: 1g.
+  Başlık: Su bardağı ekleyin! Keki kalıbindan taşıracak
+
+- Site Adı: Milliyet
+  Zaman: 3s.
+  Başlık: Su bardağı ekleyin! Keki kalıbindan taşıracak
+
+- Site Adı: NTV Haber
+  Zaman: 2g.
+  Başlık: Kansere karşı koruyucu kalkan: Bir faydası daha ortaya çıktı
+
+- Site Adı: Milliyet
+  Zaman: 1g.
+  Başlık: TOKİ BASVURU 2024 SON DAKİKA: 44 ilde TOKİ arsa satışı başladı! Yeni başvurular alınıyor: TOKİ İstanbul, Ank...

@@ -10,7 +10,7 @@ import pymysql
 import glob
 import os
 
-openai.api_key = "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"
+openai.api_key = "api"
 
 # Dosya içeriklerini yükleyen fonksiyon
 def load_file_content(file_path):

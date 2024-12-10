@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 import glob
 
-openai.api_key = "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"
+openai.api_key = "spi"
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 log_file = "C:\\Users\\emir.usenmez\\IdeaProjects\\Search\\a.txt"

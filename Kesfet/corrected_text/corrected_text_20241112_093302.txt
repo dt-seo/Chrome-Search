@@ -1,7 +1,0 @@
-Site Adı: Milliyet
-Zaman: 16s
-Başlık: % Milliyet- 16s. < 3
-
-Site Adı: NTV Haber
-Zaman: 2s
-Başlık: 2s NTV Haber: 21s. < 3
